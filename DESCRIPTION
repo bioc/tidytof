@@ -1,7 +1,7 @@
 Type: Package
 Package: tidytof
 Title: Analyze High-dimensional Cytometry Data Using Tidy Data Principles
-Version: 1.4.0
+Version: 1.5.0
 Authors@R: 
     c(person(given = "Timothy",
              family = "Keyes",
