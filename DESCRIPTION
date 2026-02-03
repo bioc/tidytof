@@ -1,7 +1,7 @@
 Type: Package
 Package: tidytof
 Title: Analyze High-dimensional Cytometry Data Using Tidy Data Principles
-Version: 1.5.0
+Version: 1.5.1
 Authors@R: 
     c(person(given = "Timothy",
              family = "Keyes",
@@ -93,3 +93,4 @@ BugReports: https://github.com/keyes-timothy/tidytof/issues
 VignetteBuilder: knitr
 Language: en-US
 biocViews: SingleCell, FlowCytometry
+PackageStatus: Deprecated
